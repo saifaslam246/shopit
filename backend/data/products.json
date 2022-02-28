@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Saif",
+    "price": 23,
+    "description": "Saif is a good bot",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/sa",
+        "url": "https://google.com"
+      }
+    ],
+    "category": "Food",
+    "seller": "ebay",
+    "stock": 50,
+    "numofReviews": 50,
+    "reviews": []
+  },
+  {
+    "name": "Saif",
+    "price": 23,
+    "description": "Saif is a good bot",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/sa",
+        "url": "https://google.com"
+      }
+    ],
+    "category": "Food",
+    "seller": "ebay",
+    "stock": 50,
+    "numofReviews": 50,
+    "reviews": []
+  },
+  {
+    "name": "hamid",
+    "price": 6,
+    "description": "hammid is a good child",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/sa",
+        "url": "https://google.com"
+      }
+    ],
+    "category": "Food",
+    "seller": "ebay",
+    "stock": 500,
+    "numofReviews": 500,
+    "reviews": []
+  }
+]
